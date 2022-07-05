@@ -1,0 +1,13 @@
+.navigationLink {
+    font-size: xx-large;
+    background-color: bisque;
+    margin: 10px;
+    border-radius: 20px;
+    padding: 10px;
+
+}
+
+navigationLink:hover {
+    background-color: blue;
+    color: bisque;
+}
