@@ -11,3 +11,7 @@ navigationLink:hover {
     background-color: blue;
     color: bisque;
 }
+
+.border{
+    border: solid 3px red;
+}
